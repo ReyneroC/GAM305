@@ -45,3 +45,6 @@ I recommend using GitHub Issues to assign responsibilities, track progress, and 
 
 ### Colin Farrington — Individual Contribution
 Prepared the initial project planning recommendations, proposed development timeline, Alpha and Beta goals, and task management approach for team review.
+
+### Cashis Reynero - Individual Contribution
+Established the repository, as well as created a project board for team members to view their specific job related tasks. 
