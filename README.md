@@ -48,3 +48,6 @@ Prepared the initial project planning recommendations, proposed development time
 
 ### Cashis Reynero - Individual Contribution
 Established the repository, as well as created a project board for team members to view their specific job related tasks. 
+
+### Ashley Bougher - Individual Contribution
+Helped when it came to role decisions, even though I only helped narrow things down by giving my strengths and weaknesses
