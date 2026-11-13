@@ -46,6 +46,8 @@ I recommend using GitHub Issues to assign responsibilities, track progress, and 
 ### Colin Farrington — Individual Contribution
 Prepared the initial project planning recommendations, proposed development timeline, Alpha and Beta goals, and task management approach for team review.
 
+### Charlie Witzel- Individual contribution
+Suggested the theme of the game (Dark Carnival) and took on the role of artist.
 
 ## Module Three Project Log - Team Development: QA and Testing Plan
 
