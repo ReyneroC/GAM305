@@ -49,6 +49,9 @@ Prepared the initial project planning recommendations, proposed development time
 ### Charlie Witzel- Individual contribution
 Suggested the theme of the game (Dark Carnival) and took on the role of artist.
 
+### Angel Morales - Individual Contribution
+Recommended defining our core gameplay mechanics before development, including player movement, inventory, object interactions, enemy behavior, and win or lose conditions. I also suggested organizing tasks through GitHub Projects using Todo, In Progress, In Review, and Done so we can track responsibilities and progress.
+
 ## Module Three Project Log - Team Development: QA and Testing Plan
 
 **Contributor:** Colin Farrington (cfarr93)
@@ -110,3 +113,6 @@ Established the repository, as well as created a project board for team members 
 
 ### Ashley Bougher - Individual Contribution
 Helped when it came to role decisions, even though I only helped narrow things down by giving my strengths and weaknesses
+
+### Angel Morales - Individual Contribution
+I opened the team project in Unreal Engine 5.8.4 and performed preliminary checks of movement, jumping, and camera controls. For our testing plan, I recommended focusing on gameplay interactions, enemy behavior, and room progression, with failed tests documented and retested after corrections. These initial checks do not replace formal Alpha testing.
