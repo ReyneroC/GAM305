@@ -107,6 +107,8 @@ Developers will reference the relevant GitHub Issue when submitting a fix. The t
 
 ### Individual Contribution — Colin Farrington
 Prepared the proposed QA and testing schedule, pass/fail checklist, test-plan update process, bug-reporting procedure, and bug-tracking workflow for team review.
+### Individual Contribution - Ashley Bougher 
+Helped establish the specific gameplay elements that would need testing 
 
 ### Cashis Reynero - Individual Contribution
 Established the repository, as well as created a project board for team members to view their specific job related tasks. 
