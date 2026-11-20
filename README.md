@@ -118,3 +118,6 @@ Helped when it came to role decisions, even though I only helped narrow things d
 
 ### Angel Morales - Individual Contribution
 I opened the team project in Unreal Engine 5.8.4 and performed preliminary checks of movement, jumping, and camera controls. For our testing plan, I recommended focusing on gameplay interactions, enemy behavior, and room progression, with failed tests documented and retested after corrections. These initial checks do not replace formal Alpha testing.
+
+### Charlie Witzel- Individual Contribution
+Honestly confused about what else I should be doing so I've been focused on the art and figuring out modeling. I've created a tent, crystal ball, table, curtains so far, and tried to figure out materials.
